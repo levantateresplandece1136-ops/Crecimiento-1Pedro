@@ -1,0 +1,6 @@
+{
+  "name": "Escalones",
+  "description": "Una aplicación interactiva para el crecimiento personal y desarrollo de virtudes, basada en la escalera de 2 Pedro 1:5-8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
